@@ -1,0 +1,20 @@
+{
+  "name": "read-counter",
+  "version": "1.0.0",
+  "description": "Read md files in your directory and print out the reading time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "read": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gootyfer/read-time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gootyfer/read-time/issues"
+  },
+  "homepage": "https://github.com/gootyfer/read-time#readme"
+}
